@@ -1,6 +1,6 @@
 # wearable_device
 
-A new Flutter project.
+Interactive biometrics dashboard with synchronized charts
 
 ## Getting Started
 
